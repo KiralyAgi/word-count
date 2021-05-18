@@ -14,3 +14,4 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
+
